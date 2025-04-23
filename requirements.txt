@@ -1,0 +1,20 @@
+# 📄 Resume Parser: Empowering Job Seekers to Build Stronger Resumes
+
+## 🚀 Elevator Pitch
+
+Many job seekers face resume rejections due to poor formatting, missing key details, or not aligning their resumes with industry standards. Without clear insights into what makes a resume effective, candidates struggle to present their skills and experiences in a way that resonates with recruiters and applicant tracking systems (ATS). 
+
+This project aims to build a web-based Resume Parser that analyzes resumes and provides structured feedback to job seekers. Using Natural Language Processing (NLP) and Machine Learning, our tool extracts key resume sections (skills, experience, education) and offers suggestions to enhance ATS compatibility, improve clarity, and meet recruiter expectations.
+
+By helping users craft ATS-friendly, recruiter-approved resumes, we aim to increase interview success rates and reduce rejection due to formatting and content issues.
+
+---
+
+## 🛠 Installation Instructions
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Tirth401/cs5661-dsproject-Resume-Parser.git
+   cd cs5661-dsproject-Resume-Parser
